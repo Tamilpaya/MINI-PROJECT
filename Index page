@@ -1,1 +1,23 @@
+//Source code for index page...Explore it more
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+</head>
+<body style="text-align: center;">
+    <h1 style="color: red; text-decoration: underline;">Foodiee</h1>
+    <h3>Online food ordering website</h3>
+    <hr><hr>
+    <br>
+    <form action="#">
+    <input type="text" name="food" placeholder="Search for food">
+    <input type="submit" name="submit" value="Search">
+    </form>
+    <br>
+    <hr><hr>
 
+</body>
+</html>
