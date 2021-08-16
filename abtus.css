@@ -8,7 +8,7 @@
 .section{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(source/bgimg.jfif);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(bgimg.jfif);
     background-size: cover;
     background-position: center;
 }
